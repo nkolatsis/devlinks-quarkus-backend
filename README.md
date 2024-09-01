@@ -1,4 +1,4 @@
-# quarkus-auth-prototype
+# devlinks-quarkus-backend
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
